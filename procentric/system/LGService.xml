@@ -17,7 +17,7 @@
 
 <appList>
 	<subversionNumber>1</subversionNumber>
-	<content>
+<!-- 	<content>
 		<type>IPK_FIRMWARE</type>
 		<data>https://pro-centric.github.io/procentric/system/pbt.portal_1.0.2.ipk</data>
 		<appTitle>PBT Portal</appTitle>
@@ -41,8 +41,15 @@
 		<frequency>0</frequency>
 		<programNum>0</programNum>
 		<cTag>1</cTag>
-	</content>
+	</content> -->
 	
+	<content>
+            <type>SPALSH_IMAGE</type>
+            <data>https://pro-centric.github.io/procentric/system/splash_Image.jpg</data>
+            <frequency>0</frequency>
+            <programNum>0</programNum>
+            <cTag>0<cTag>
+        </content>
 	
 <!--	<content>
 		<type>IPK_FIRMWARE</type>
