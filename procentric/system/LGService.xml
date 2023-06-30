@@ -11,8 +11,8 @@
 		    <programNum>0</programNum>
 		    <cTag>0</cTag>
 		</content> -->
-<!-- <appList>
-	<subversionNumber>1</subversionNumber>
+<appList>
+<!-- 	<subversionNumber>1</subversionNumber>
 	<content>
 		<type>IPK_FIRMWARE</type>
 		<data>https://pro-centric.github.io/procentric/system/pbt.portal_1.0.2.ipk</data>
@@ -92,7 +92,7 @@
 </content>
 >-->
 
-<!-- </appList> -->
+</appList>
 
 	</setup>
 </service>
