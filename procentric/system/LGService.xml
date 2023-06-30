@@ -1,23 +1,19 @@
 <service>
 <setup>
-<versionNumber>0</versionNumber>
-<!--
-<modelName>49UT570H0UA</modelName>
-<modelName>43LV761H-ZA</modelName>
-<modelName>55UU660H-GB</modelName>
-<modelName>43UT770H0UA</modelName>
-<modelName>NotSupportedModel</modelName>
-<modelName>STB-5500-UA</modelName>
-<modelName>43UT761H0ZA</modelName>
-<modelName>55LV761H-ZA</modelName>-->
-
+<versionNumber>1</versionNumber>
 <modelName>WEBOS</modelName>
 <!--<modelName>WEBOS6.0</modelName>-->
 <priority>NORMAL</priority>
-
-<appList>
+<content>
+    <type>SPLASH_IMAGE</type>
+    <data>https://pro-centric.github.io/procentric/system/splash_Image.jpg</data>
+    <frequency>0</frequency>
+    <programNum>0</programNum>
+    <cTag>1</cTag>
+</content>
+<!-- <appList>
 	<subversionNumber>1</subversionNumber>
-<!-- 	<content>
+	<content>
 		<type>IPK_FIRMWARE</type>
 		<data>https://pro-centric.github.io/procentric/system/pbt.portal_1.0.2.ipk</data>
 		<appTitle>PBT Portal</appTitle>
@@ -42,14 +38,6 @@
 		<programNum>0</programNum>
 		<cTag>1</cTag>
 	</content> -->
-	
-	<content>
-            <type>SPLASH_IMAGE</type>
-            <data>https://pro-centric.github.io/procentric/system/splash_Image.jpg</data>
-            <frequency>0</frequency>
-            <programNum>0</programNum>
-            <cTag>1</cTag>
-        </content>
 	
 <!--	<content>
 		<type>IPK_FIRMWARE</type>
@@ -104,7 +92,7 @@
 </content>
 >-->
 
-</appList>
+<!-- </appList> -->
 
 </setup>
 </service>
