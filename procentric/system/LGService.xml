@@ -4,13 +4,13 @@
 		<modelName>WEBOS</modelName>
 		<!--<modelName>WEBOS6.0</modelName>-->
 		<priority>NORMAL</priority>
-		<content>
+<!-- 		<content>
 		    <type>SPLASH_IMAGE</type>
 		    <data>https://pro-centric.github.io/procentric/system/splash_Image.jpg</data>
 		    <frequency>0</frequency>
 		    <programNum>0</programNum>
 		    <cTag>0</cTag>
-		</content>
+		</content> -->
 <!-- <appList>
 	<subversionNumber>1</subversionNumber>
 	<content>
