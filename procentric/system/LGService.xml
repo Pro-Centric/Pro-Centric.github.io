@@ -44,7 +44,7 @@
 	</content> -->
 	
 	<content>
-            <type>SPALSH_IMAGE</type>
+            <type>SPLASH_IMAGE</type>
             <data>https://pro-centric.github.io/procentric/system/splash_Image.jpg</data>
             <frequency>0</frequency>
             <programNum>0</programNum>
