@@ -1,11 +1,38 @@
 <service>
 <setup>
-<versionNumber>13</versionNumber>
+<versionNumber>0</versionNumber>
 <modelName>WEBOS</modelName>
 <priority>NORMAL</priority>
+<appList>
+	<subversionNumber>0</subversionNumber>
+	<content>
+		<type>IPK_FIRMWARE</type>
+		<data>pbt.portal_1.0.2.ipk</data>
+		<appTitle>PBT Portal</appTitle>
+		<appId>pbt.portal</appId>
+		<appSignature>0</appSignature>
+		<appVersion>4.0.7</appVersion>
+		<visible>1</visible>
+		<frequency>0</frequency>
+		<programNum>0</programNum>
+		<cTag>1</cTag>
+	</content>
+	<content>
+		<type>IPK_FIRMWARE</type>
+		<data>hd.pbt.portal_1.0.2.ipk</data>
+		<appTitle>PBT Portal HD</appTitle>
+		<appId>hd.pbt.portal</appId>
+		<appSignature>0</appSignature>
+		<appVersion>1.0.0</appVersion>
+		<visible>1</visible>
+		<frequency>0</frequency>
+		<programNum>0</programNum>
+		<cTag>1</cTag>
+	</content>
+</appList>
 <content>
 	<type>SPLASH_IMAGE</type>
-	<subversionNumber>13</subversionNumber>
+	<subversionNumber>0</subversionNumber>
 	<data>https://pro-centric.github.io/procentric/system/a_IMG_1811.JPG</data>
 	<frequency>2</frequency>
 	<programNum>1</programNum>
