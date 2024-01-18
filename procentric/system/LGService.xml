@@ -3,7 +3,7 @@
 <versionNumber>0</versionNumber>
 <modelName>WEBOS</modelName>
 <priority>NORMAL</priority>
-<appList>
+<!-- <appList>
 	<subversionNumber>0</subversionNumber>
 	<content>
 		<type>IPK_FIRMWARE</type>
@@ -29,7 +29,7 @@
 		<programNum>0</programNum>
 		<cTag>1</cTag>
 	</content>
-</appList>
+</appList> -->
 <content>
 	<type>SPLASH_IMAGE</type>
 	<subversionNumber>0</subversionNumber>
