@@ -38,5 +38,12 @@
 	<programNum>1</programNum>
 	<cTag>1</cTag>
 </content>
+<content>
+	<type>PROIDIOM_KEY</type>
+	<data>fef1c0877933f23c8c0f5fd6ef31e580.pim</data>
+	<frequency>2059</frequency>
+	<programNum>0</programNum>
+	<cTag>1</cTag>
+</content>
 </setup>
 </service>
